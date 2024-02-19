@@ -1,0 +1,16 @@
+
+J
+java:S1604D"(Make this anonymous inner class a lambda(ÉÌ¨‰ûÿÿÿÿ8Ú°·Ú1
+E
+java:S1604K"(Make this anonymous inner class a lambda(Ÿ«ù‡8Û°·Ú1
+|
+java:S1104D"ZMake comparadorEdad a static final constant or non-public and provide accessors if needed.(ÉÌ¨‰ûÿÿÿÿ8Ü°·Ú1
+y
+java:S1104K"\Make comparadorAltura a static final constant or non-public and provide accessors if needed.(Ÿ«ù‡8Ü°·Ú1
+V
+java:S1444D"4Make this "public static comparadorEdad" field final(ÉÌ¨‰ûÿÿÿÿ8İ°·Ú1
+S
+java:S1444K"6Make this "public static comparadorAltura" field final(Ÿ«ù‡8İ°·Ú1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çÈê8ñõ¶Ú1
+v
+java:S1210)"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.( ñßÌ8Šñõ¶Ú1

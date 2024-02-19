@@ -1,0 +1,17 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜ïå¨ûÿÿÿÿ
+7
+java:S1643b"Use a StringBuilder instead.(¥õ‡«ıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æ¢¶˜şÿÿÿÿ
+T
+java:S5993"9Change the visibility of this constructor to "protected".(µò¨—şÿÿÿÿ
+E	java:S106A"+Replace this use of System.out by a logger.(ÓÕúúÿÿÿÿ
+@	java:S106H"+Replace this use of System.out by a logger.(·Ÿí¿
+@	java:S106O"+Replace this use of System.out by a logger.(€¶»¼
+@	java:S106U"+Replace this use of System.out by a logger.(¸ÿ„½
+E	java:S106\"+Replace this use of System.out by a logger.(éæûÿÿÿÿ
+K
+java:S1854n"5Remove this useless assignment to local variable "s".(ßÃŠ”
+A
+java:S1481i"&Remove this unused "s" local variable.(®şîìøÿÿÿÿ

@@ -1,0 +1,13 @@
+
+b
+java:S1192"GDefine a constant instead of duplicating this literal "HEMBRA" 3 times.(¿ËÈ³úÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²°‰¯
+O
+java:S1161":Add the "@Override" annotation above this method signature(Å€÷
+~
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ìææşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(÷ˆìÀşÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Îéû„
+@	java:S106!"+Replace this use of System.out by a logger.(’é ¹
+@	java:S106#"+Replace this use of System.out by a logger.(ĞÚ²
+E	java:S106%"+Replace this use of System.out by a logger.(£¥ê‰üÿÿÿÿ

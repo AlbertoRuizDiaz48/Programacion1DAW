@@ -1,0 +1,9 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÈÃÎ8Çû¨•Ø1
+r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÓÛÿÿÿÿÿ8šÍ—–Ø1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È¯›Û8Èû¨•Ø1
+x	java:S116"WRename this field "salario_base" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¹™Ûøÿÿÿÿ8Êû¨•Ø1
+[
+java:S5993#"9Change the visibility of this constructor to "protected".(šÓÛÿÿÿÿÿ8Ëû¨•Ø1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÚÄÌ8£Í—–Ø1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÈÃÎ8¤Í—–Ø1

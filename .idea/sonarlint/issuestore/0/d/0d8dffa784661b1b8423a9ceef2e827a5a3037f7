@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Üí‚ğıÿÿÿÿ
+b
+java:S6201	"FReplace this instanceof check and cast with 'instanceof Alumno alumno'(–—Ûm8şßš¶Ú1
+j
+java:S6201
+"HReplace this instanceof check and cast with 'instanceof Docente docente'(·§´ûÿÿÿÿ8ÿßš¶Ú1
+h
+java:S6201"FReplace this instanceof check and cast with 'instanceof Alumno alumno'(õëøÙüÿÿÿÿ8àš¶Ú1
+e
+java:S6201"HReplace this instanceof check and cast with 'instanceof Docente docente'(öºĞç8ƒàš¶Ú1
